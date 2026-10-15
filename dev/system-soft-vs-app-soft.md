@@ -1,0 +1,2 @@
+**System software** that manages hardware resources and provides a platform for application software.<br>
+**Application software** (app, application) is a software that designed to perform specific tasks for users.<br>
